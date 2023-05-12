@@ -1,0 +1,16 @@
+{
+  "location": {
+    "lat": -38.3835224,
+    "lng": 11.1023455
+  },
+  "accuracy": 1011,
+  "name": "New API of utk SIR",
+  "phone_number": "(+91) 983 8914534",
+  "address": "New Api Data Lane",
+  "types": [
+    "shoe park",
+    "shop"
+  ],
+  "website": "http://google.com",
+  "language": "Hindi-IN"
+}
